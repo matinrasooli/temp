@@ -8,5 +8,7 @@ class matin:
 
 onj = matin()
 
+print("hi")
+
 
 
